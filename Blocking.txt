@@ -5,9 +5,9 @@
 # every domain below will get blocked
 
 127.0.0.1 stat1.info
-127.0.0.1
-127.0.0.1
-127.0.0.1
+127.0.0.1 get.prioritynotifications.com
+127.0.0.1 allashark.site
+127.0.0.1 lp.searchdimension.com
 127.0.0.1
 127.0.0.1
 127.0.0.1
