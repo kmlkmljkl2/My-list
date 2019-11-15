@@ -13,11 +13,11 @@
 127.0.0.1 www.monda-magazin.de
 127.0.0.1 keepinfit.net
 127.0.0.1 www.lotoscasinos.com
-127.0.0.1
-127.0.0.1
-127.0.0.1
-127.0.0.1
-127.0.0.1
+127.0.0.1 demand.bidgear.com
+127.0.0.1 vrfuckdolls.com
+127.0.0.1 hookupscan.com
+127.0.0.1 lottohelden.de
+127.0.0.1 demand.bidgear.com
 127.0.0.1
 127.0.0.1
 127.0.0.1
