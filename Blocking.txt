@@ -23,63 +23,63 @@
 127.0.0.1 install.notify-service.com
 127.0.0.1 airartapt.site
 127.0.0.1 doctopdftech.com
-127.0.0.1
-127.0.0.1
-127.0.0.1
-127.0.0.1
-127.0.0.1
-127.0.0.1
-127.0.0.1
-127.0.0.1
-127.0.0.1
-127.0.0.1
-127.0.0.1
-127.0.0.1
-127.0.0.1
-127.0.0.1
-127.0.0.1
-127.0.0.1
-127.0.0.1
-127.0.0.1
-127.0.0.1
-127.0.0.1
-127.0.0.1
-127.0.0.1
-127.0.0.1
-127.0.0.1
-127.0.0.1
-127.0.0.1
-127.0.0.1
-127.0.0.1
-127.0.0.1
-127.0.0.1
-127.0.0.1
-127.0.0.1
-127.0.0.1
-127.0.0.1
-127.0.0.1
-127.0.0.1
-127.0.0.1
-127.0.0.1
-127.0.0.1
-127.0.0.1
-127.0.0.1
-127.0.0.1
-127.0.0.1
-127.0.0.1
-127.0.0.1
-127.0.0.1
-127.0.0.1
-127.0.0.1
-127.0.0.1
-127.0.0.1
-127.0.0.1
-127.0.0.1
-127.0.0.1
-127.0.0.1
-127.0.0.1
-127.0.0.1
-127.0.0.1
+127.0.0.1 0sntp7dnrr.com
+127.0.0.1 3x2.myfastcdn.com
+127.0.0.1 9.notifscreen.com
+127.0.0.1 ad13.adfarm1.adition.com
+127.0.0.1 add-to-browser.xyz
+127.0.0.1 ads.skadtec.com
+127.0.0.1 aleailarm.com
+127.0.0.1 alballaim.com
+127.0.0.1 ampallall.site
+127.0.0.1 artcamcat.site
+127.0.0.1 ashamparm.site
+127.0.0.1 baobads.com
+127.0.0.1 bestanimegame.com
+127.0.0.1 cfa.2mdnsys.com
+127.0.0.1 consting-hancessor.com
+127.0.0.1 de.betano.com
+127.0.0.1 demand.bidgear.com
+127.0.0.1 deutschemix.com
+127.0.0.1 dstatutorsher.info
+127.0.0.1 espritgames.com
+127.0.0.1 eu-adsrv.rtbsuperhub.com
+127.0.0.1 frankcasino.com
+127.0.0.1 galaks.io
+127.0.0.1 game.mydailyfun.live
+127.0.0.1 goplay4.com
+127.0.0.1 hajoopteg.com
+127.0.0.1 hentaifap.land
+127.0.0.1 img.revcontent.com
+127.0.0.1 jouptubegrow.com
+127.0.0.1 koindut.com
+127.0.0.1 latestsocial.com
+127.0.0.1 lp.searchmulty.com
+127.0.0.1 marketgameframes.com
+127.0.0.1 matches4you.info
+127.0.0.1 my.rtmark.net
+127.0.0.1 mydailyfun.live
+127.0.0.1 native.propellerclick.com
+127.0.0.1 notifscreen.com
+127.0.0.1 pokemononline.games
+127.0.0.1 sextreffen2.com
+127.0.0.1 slotv.com
+127.0.0.1 tar.unicornpride123.com
+127.0.0.1 thefuncoolstuff.com
+127.0.0.1 track.shellshock.live
+127.0.0.1 trahes.site
+127.0.0.1 win-shoppingvouchers-de.com
+127.0.0.1 www.bestgamesvault.com
+127.0.0.1 www.consting-hancessor.com
+127.0.0.1 www.casinoeuro.com
+127.0.0.1 www.espritgames.com
+127.0.0.1 www.gaming-adult.com
+127.0.0.1 www.google-analytics.com
+127.0.0.1 www.goplay4.com
+127.0.0.1 www.lapalingo.com
+127.0.0.1 www.nutaku.net
+127.0.0.1 www.sunmaker.com
+127.0.0.1 www.w3.org
 127.0.0.1
 127.0.0.1
 127.0.0.1
