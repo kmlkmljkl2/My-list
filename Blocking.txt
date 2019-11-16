@@ -20,7 +20,7 @@
 127.0.0.1 demand.bidgear.com
 127.0.0.1 get.pronotifications.online
 127.0.0.1 wlstoiximan.adsrv.eacdn.com
-127.0.0.1
+127.0.0.1 install.notify-service.com
 127.0.0.1
 127.0.0.1
 127.0.0.1
