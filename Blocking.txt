@@ -22,7 +22,7 @@
 127.0.0.1 wlstoiximan.adsrv.eacdn.com
 127.0.0.1 install.notify-service.com
 127.0.0.1 airartapt.site
-127.0.0.1
+127.0.0.1 doctopdftech.com
 127.0.0.1
 127.0.0.1
 127.0.0.1
