@@ -92,8 +92,8 @@
 127.0.0.1 bmedia.justservingfiles.net
 127.0.0.1 track.shellshock.live
 127.0.0.1 fremdgehen69.com
-127.0.0.1
-127.0.0.1
+127.0.0.1 a.adtng.com
+127.0.0.1 adtng.com
 127.0.0.1
 127.0.0.1
 127.0.0.1
