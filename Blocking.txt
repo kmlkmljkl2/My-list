@@ -2,6 +2,7 @@
 ::1 localhost #IPv6 localhost
 
 # this is where the shit begins
+# these are mostly ads that i encounter in my daily browsing
 # every domain below will get blocked
 
 127.0.0.1 stat1.info
